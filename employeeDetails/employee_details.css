@@ -1,0 +1,19 @@
+.empList  {
+  padding: 8px;
+  background-color: rgb(196, 196, 196);
+  color: rgb(0, 0, 0);
+  border: solid 1px rgb(34, 34, 34);
+  border-radius: 4px;
+  margin: 5px 0px;
+}
+.empSalary {
+  padding: 10px;
+  background-color: lightcoral;
+  color: black;
+  font-weight: bold;
+}
+.hr {
+  background-color: rgb(166, 239, 166);
+  border: solid 2px rgb(0, 152, 0);
+  color: green;
+}
